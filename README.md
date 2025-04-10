@@ -1,46 +1,37 @@
-# Program Konversi Sederhana Dollar ke Rupiah
+# Program Konversi Mata Uang Dollar ke Rupiah
 
 | Nama  | NRP         |
 |--------|------------|
 | Muhammad Hafidz Harridil Mahali | 5025221030 |
 
 ## Deskripsi
-Program untuk menkonversikan nilai mata uang dollar(USD) ke rupiah(IDR)
+Program untuk menkonversikan nilai mata uang USD ke IDR
+Berikut adalah versi dalam bahasa Indonesia biasa dari teks yang Anda berikan:
 
-## Overview
-This app allows users to:
-- Input a USD amount.
-- Convert it to IDR with a single button press.
-- Clear the input and result fields.
+---
 
-## Features
-- Clean and responsive UI using `ConstraintLayout`.
-- Fixed exchange rate of 1 USD = 16,795 IDR (editable in code).
-- Input validation for empty or invalid entries.
-- Two buttons: "Convert" for conversion and "Clear" to reset fields.
+## Fitur
+- Tampilan yang rapi dan responsif menggunakan `ConstraintLayout`.
+- Kurs (10 April 2025) untuk 1 USD = 16.795 IDR (bisa diubah di kode).
+- Pengecekan input untuk memastikan tidak kosong atau salah.
+- Dua tombol: "Convert" untuk mengubah nilai dan "Clear" untuk mengosongkan kolom.
 
-## How to Use
-1. Enter a USD amount in the input field.
-2. Press the "Convert" button to see the result in IDR.
-3. Press the "Clear" button to reset the input and result.
+## Cara Pakai
+1. Masukkan jumlah USD di kolom input.
+2. Tekan tombol "Convert" untuk melihat hasilnya dalam IDR.
+3. Tekan tombol "Clear" untuk mengosongkan kolom input dan hasil.
 
 ## Demo
-Watch a quick demo of the app in action:
+Lihat demo singkat program ini:
 
-[![Currency Converter Demo](https://img.youtube.com/vi/RFxmOhrI2Jo/0.jpg)](https://youtu.be/RFxmOhrI2Jo)
+[![Demo Konverter Mata Uang](https://img.youtube.com/vi/RFxmOhrI2Jo/0.jpg)](https://youtu.be/RFxmOhrI2Jo)
 
-## Project Structure
-- **`MainActivity.kt`**: Main logic for conversion and clearing fields.
-- **`activity_main.xml`**: UI layout with input, buttons, and result display.
+## Struktur 
+- **`MainActivity.kt`**: Logika utama untuk konversi dan mengosongkan kolom.
+- **`activity_main.xml`**: Tata letak tampilan dengan kolom input, tombol, dan hasil.
 
-## Requirements
+## Requirement
 - Android Studio
-- Kotlin support
-- Minimum SDK: API 21 (Android 5.0 Lollipop)
-
-## Setup
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Build and run on an emulator or physical device.
-
+- Dukungan Kotlin
+- SDK Minimum: API 21 (Android 5.0 Lollipop)
 
