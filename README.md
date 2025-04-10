@@ -6,9 +6,6 @@
 
 ## Deskripsi
 Program untuk menkonversikan nilai mata uang USD ke IDR
-Berikut adalah versi dalam bahasa Indonesia biasa dari teks yang Anda berikan:
-
----
 
 ## Fitur
 - Tampilan yang rapi dan responsif menggunakan `ConstraintLayout`.
