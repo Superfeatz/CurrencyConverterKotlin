@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCurrencyConverter</string>
+    <string name="currency_converter_usd_to_idr">Currency Converter USD To IDR</string>
+    <string name="convert">Convert</string>
+    <string name="masukkan_nominal_usd">Masukkan Nominal USD</string>
+    <string name="IDR">Hasil Konversi ke IDR</string>
+    <string name="clear">Clear</string>
+</resources>
